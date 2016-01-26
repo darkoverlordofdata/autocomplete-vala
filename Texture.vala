@@ -10,6 +10,7 @@ public class Texture {
     public int height {get; private set;}
 
     public static Texture? fromFile(SDL.Renderer renderer, string path) {
+
         Texture mt = new Texture();
         SDL.Surface loadedSurface = SDLImage.load(path);
 

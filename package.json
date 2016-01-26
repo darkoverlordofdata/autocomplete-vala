@@ -2,7 +2,7 @@
   "name": "autocomplete-vala",
   "version": "0.0.1",
   "description": "Vala Language and API autocompletions",
-  "main": "./lib/autocomplete-vala",
+  "main": "./lib/autocomplete-clang",
   "license": "MIT",
   "repository": "https://github.com/darkoverlordofdata/autocomplete-vala",
   "engines": {
